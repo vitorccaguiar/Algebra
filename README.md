@@ -5,7 +5,7 @@
 - O código fonte do teste realizado se encontra no arquivo "LucasLehmer.java".
 
 - O arquivo "Algebra.jar" pode ser utilizado para executar o programa de forma mais fácil. Basta ter Java instalado na sua máquina, abrir o terminal/prompt de Comando e digitar: java -jar Algebra.jar
-- 
+
 # Algebra - Lucas-Lehmer Test
 
 - The slide presentation can be found in two file formats but only in Portuguese.
